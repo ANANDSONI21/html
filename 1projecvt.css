@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: aqua;
+    background: url('background.jpg') no-repeat ;
+    background-size: cover;
+    background-position: center;
+    }
+.navigation a{
+    
+    position: relative; left: 480px;bottom: 160px;
+    font-size: 2rem;
+    color: rgb(11, 7, 3);
+    text-decoration: none;
+    margin-left: 40px;
+    transition: .2s;
+    }
+
